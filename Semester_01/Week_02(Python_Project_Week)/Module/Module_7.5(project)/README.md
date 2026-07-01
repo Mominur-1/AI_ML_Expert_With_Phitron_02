@@ -2,7 +2,7 @@
 🐞 AI-Powered Bug Detection & Fix Generator from code screenshots
 
 ## 🚀 Live App & Code
-**Live:** [ai-code-fix.streamlit.app](https://ai-code-fix.streamlit.app/)
+**Live:** [ai-code-fix.streamlit.app](https://ai-code-fix.streamlit.app/)  
 **Repo:** [github.com/Mominur-1/AI_code_debugger](https://github.com/Mominur-1/AI_code_debugger)
 
 ## ✨ Features
